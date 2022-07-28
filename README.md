@@ -1,3 +1,5 @@
+
+<p algin="center"><img src="https://user-images.githubusercontent.com/70245821/181429956-c9e755cd-335b-42a0-b119-cfe39b649c6d.gif"/></p>
 # Navigation in Jetpack Compose Codelab
 
 This folder contains the source code for the
